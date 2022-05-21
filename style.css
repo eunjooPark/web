@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Permanent+Marker&display=swap');
+*{
+    font-family: 'Patrick Hand', cursive;
+}
+
+h1{
+    width: 500px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+div{
+    width: 500px;
+    text-align: justify;
+    font-size: 15pt;
+    
+}
+
+.mode{
+    text-align: right;
+}
+
+button{
+    font-size: 12pt;
+    background-color: blanchedalmond;
+}
+
+#webcam-container{
+    /* position: absolute; */
+    visibility: hidden;
+}
